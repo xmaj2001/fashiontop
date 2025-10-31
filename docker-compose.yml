@@ -1,0 +1,29 @@
+version: "3.8"
+
+services:
+  node-dev:
+    image: node:20-bullseye
+    container_name: node-dev
+    working_dir: /workspace
+    command: tail -f /dev/null   # mantém o container rodando para que você possa entrar
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=development
+    # ports:
+    #   - "3000:3000"   # Next.js / Nest / apps
+    #   - "5173:5173"   # Vite
+    #   - "4200:4200"   # Angular
+    #   - "5000:5000"   # backend genéricos
+    #   - "8081:8081"   # React Native (Metro)
+    volumes:
+      - ./:/workspace:cached
+      - node_modules:/workspace/node_modules
+    # Ajusta o UID/GID para que arquivos criados no container pertençam ao seu usuário host.
+    # Pode definir no shell: export UID=$(id -u) && export GID=$(id -g)
+    # user: "${UID:-1000}:${GID:-1000}"
+    shm_size: "1g"
+
+volumes:
+  node_modules:
