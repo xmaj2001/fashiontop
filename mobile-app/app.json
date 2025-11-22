@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "FashionTop",
+    "slug": "FT",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logoMarc.png",
+    "scheme": "fashiontop",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/logoMarc.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#141414"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logoMarc.png",
+        "backgroundColor": "#141414"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/logoMarc.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

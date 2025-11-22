@@ -1,0 +1,570 @@
+[00:00:03.023] Server  LOG      ✓ Ready in 1932ms
+[00:00:06.117] Server  ERROR    ⨯ Error: Image with src "https://images.unsplash.com/photo-1619384846683-8dede3452564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" is missing required "width" property.
+[00:00:06.255] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.421] Browser ERROR   uncaughtError: Error: Image with src "https://images.unsplash.com/photo-1619384846683-8dede3452564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" is missing required "width" property.
+[00:00:34.962] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:34.967] Server  LOG      ✓ Compiled in 102ms
+[00:00:35.586] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:35.893] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:35.893] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:35.893] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763820733184}
+[00:02:06.753] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/featured-models.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:07.044] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:07.202] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:07.202] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:07.202] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763820824513}
+[00:02:08.961] Browser WARN    Image with src "https://images.unsplash.com/photo-1619384846683-8dede3452564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:02:24.031] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/featured-models.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:24.125] Server  LOG      ✓ Compiled in 71ms
+[00:02:24.322] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:24.560] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:24.560] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:24.560] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763820841782}
+[00:02:24.560] Browser WARN    Image with src "https://images.unsplash.com/photo-1619384846683-8dede3452564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:02:26.457] Browser ERROR   uncaughtError: Error: Image with src "https://images.unsplash.com/photo-1640876305588-dbdab5869200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwd29tYW4lMjBwb3J0cmFpdHxlbnwxfHx8fDE3NjE5MjgyNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" is missing required "width" property.
+[00:02:39.101] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:02:39.177] Server  LOG      ✓ Compiled in 69ms
+[00:02:39.358] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:39.502] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:39.502] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:39.503] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763820856813}
+[00:06:20.300] Server  LOG      ✓ Compiled in 243ms
+[00:08:23.894] Server  LOG      ✓ Compiled in 129ms
+[00:09:07.607] Server  LOG      ✓ Compiled in 105ms
+[00:09:50.424] Server  LOG      ✓ Compiled in 72ms
+[00:10:35.788] Server  LOG      ✓ Compiled in 90ms
+[00:11:02.203] Server  LOG      ✓ Compiled in 46ms
+[00:11:40.922] Server  LOG      ✓ Compiled in 89ms
+[00:11:53.336] Server  LOG      ✓ Compiled in 72ms
+[00:12:07.209] Server  LOG      ✓ Compiled in 72ms
+[00:12:36.471] Server  LOG      ✓ Compiled in 69ms
+[00:12:45.993] Server  LOG      ✓ Compiled in 132ms
+[00:12:59.478] Server  LOG      ✓ Compiled in 68ms
+[00:13:15.552] Server  LOG      ✓ Compiled in 54ms
+[00:13:42.122] Server  LOG      ✓ Compiled in 74ms
+[00:13:54.678] Server  LOG      ✓ Compiled in 73ms
+[00:14:37.485] Server  LOG      ✓ Compiled in 77ms
+[00:14:51.988] Server  LOG      ✓ Compiled in 62ms
+[00:15:02.029] Server  LOG      ✓ Compiled in 85ms
+[00:15:06.440] Server  LOG      ✓ Compiled in 64ms
+[00:15:32.462] Server  LOG      ✓ Compiled in 35ms
+[00:16:16.062] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/featured-models.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:16.088] Server  LOG      ✓ Compiled in 64ms
+[00:16:16.755] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:16.986] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:16:16.987] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:16:16.987] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763821674237}
+[00:16:16.987] Browser WARN    Image with src "https://images.unsplash.com/photo-1758613654186-6ce234bf94ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwcGhvdG9ncmFwaHklMjBzdHVkaW98ZW58MXx8fHwxNzYxODQ0MjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:18:23.694] Server  LOG      ✓ Compiled in 45ms
+[00:18:27.877] Server  LOG      ✓ Compiled in 68ms
+[00:18:32.695] Server  LOG      ✓ Compiled in 37ms
+[00:20:11.216] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763821908526}
+[00:21:56.198] Server  LOG      ✓ Compiled in 84ms
+[00:22:42.911] Server  LOG      ✓ Compiled in 418ms
+[00:22:43.580] Browser ERROR   ./components/model/HeroCarousel.tsx:1:20
+Ecmascript file had an error
+> 1 | import { useState, useEffect } from "react";
+    |                    ^^^^^^^^^
+  2 | import { motion, AnimatePresence } from "motion/react";
+  3 | import {
+  4 |   ChevronLeft,
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/model/HeroCarousel.tsx
+    ./app/models/page.tsx
+[00:22:43.580] Browser ERROR   ./components/model/HeroCarousel.tsx:1:10
+Ecmascript file had an error
+> 1 | import { useState, useEffect } from "react";
+    |          ^^^^^^^^
+  2 | import { motion, AnimatePresence } from "motion/react";
+  3 | import {
+  4 |   ChevronLeft,
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/model/HeroCarousel.tsx
+    ./app/models/page.tsx
+[00:22:55.580] Browser ERROR   ./components/model/HeroCarousel.tsx:1:20
+Ecmascript file had an error
+> 1 | import { useState, useEffect } from "react";
+    |                    ^^^^^^^^^
+  2 | import { motion, AnimatePresence } from "motion/react";
+  3 | import {
+  4 |   ChevronLeft,
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/model/HeroCarousel.tsx
+    ./app/models/page.tsx
+[00:22:55.580] Browser ERROR   ./components/model/HeroCarousel.tsx:1:10
+Ecmascript file had an error
+> 1 | import { useState, useEffect } from "react";
+    |          ^^^^^^^^
+  2 | import { motion, AnimatePresence } from "motion/react";
+  3 | import {
+  4 |   ChevronLeft,
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/model/HeroCarousel.tsx
+    ./app/models/page.tsx
+[00:23:06.418] Server  LOG      ✓ Compiled in 256ms
+[00:23:06.673] Browser ERROR   uncaughtError: Error: Image with src "/models/model1.jpg" is missing required "height" property.
+[00:23:19.501] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:19.527] Server  LOG      ✓ Compiled in 43ms
+[00:23:19.731] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763822096929}
+[00:23:20.237] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:20.407] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:23:20.407] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/models","route":"/models"}
+[00:23:20.407] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763822097719}
+[00:23:22.560] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:22.675] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model1.jpg" "received" null
+[00:23:26.073] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:26.097] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model2.jpg" "received" null
+[00:23:31.117] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:31.137] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model3.jpg" "received" null
+[00:23:36.091] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:36.134] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model1.jpg" "received" null
+[00:23:41.093] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:41.115] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model2.jpg" "received" null
+[00:23:46.075] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:46.099] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model3.jpg" "received" null
+[00:23:51.091] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:51.120] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model1.jpg" "received" null
+[00:23:56.088] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:23:56.113] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model2.jpg" "received" null
+[00:24:01.101] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:01.125] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model3.jpg" "received" null
+[00:24:06.087] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:06.121] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model1.jpg" "received" null
+[00:24:11.077] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:11.098] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model2.jpg" "received" null
+[00:24:16.078] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:16.100] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model3.jpg" "received" null
+[00:24:21.095] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:21.119] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model1.jpg" "received" null
+[00:24:26.087] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:26.108] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model2.jpg" "received" null
+[00:24:31.089] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:31.110] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model3.jpg" "received" null
+[00:24:36.106] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:24:36.135] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/models/model1.jpg" "received" null
+[00:24:38.303] Server  LOG      ✓ Compiled in 44ms
+[00:25:11.811] Server  LOG      ✓ Compiled in 61ms
+[00:25:12.694] Server  LOG      ✓ Compiled in 48ms
+[00:25:18.835] Server  LOG      ✓ Compiled in 76ms
+[00:25:29.386] Server  LOG      ✓ Compiled in 63ms
+[00:25:32.815] Server  LOG      ✓ Compiled in 64ms
+[00:25:38.629] Server  LOG      ✓ Compiled in 110ms
+[00:28:57.147] Server  LOG      ✓ Compiled in 123ms
+[00:36:40.876] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763822898181}
+[00:38:44.881] Server  LOG      ✓ Compiled in 263ms
+[00:38:49.907] Server  LOG      ✓ Compiled in 106ms
+[00:39:35.762] Server  LOG      ✓ Compiled in 150ms
+[00:39:45.720] Server  LOG      ✓ Compiled in 171ms
+[00:40:31.514] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763823128801}
+[00:41:21.485] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/featured-models.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:41:21.514] Server  LOG      ✓ Compiled in 62ms
+[00:41:22.194] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:22.428] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:41:22.428] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/models","route":"/models"}
+[00:41:22.428] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763823179679}
+[00:41:22.428] Browser WARN    Image with src "https://images.unsplash.com/photo-1619384846683-8dede3452564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:44:18.833] Server  LOG      ✓ Compiled in 61ms
+[00:46:59.443] Server  LOG      ✓ Compiled in 58ms
+[00:47:26.179] Server  LOG      ✓ Compiled in 88ms
+[00:47:31.609] Server  LOG      ✓ Compiled in 74ms
+[00:48:47.696] Server  LOG      ✓ Compiled in 86ms
+[00:49:25.591] Server  LOG      ✓ Compiled in 40ms
+[00:51:19.204] Server  LOG      ✓ Compiled in 69ms
+[00:51:47.177] Server  LOG      ✓ Compiled in 53ms
+[00:52:38.968] Server  LOG      ✓ Compiled in 111ms
+[00:53:10.959] Server  LOG      ✓ Compiled in 99ms
+[00:53:33.532] Server  LOG      ✓ Compiled in 78ms
+[00:55:28.286] Server  LOG      ✓ Compiled in 81ms
+[00:55:50.660] Server  LOG      ✓ Compiled in 40ms
+[00:56:48.030] Server  LOG      ✓ Compiled in 103ms
+[00:56:56.742] Server  LOG      ✓ Compiled in 78ms
+[00:57:04.607] Server  LOG      ✓ Compiled in 87ms
+[00:57:43.388] Server  LOG      ✓ Compiled in 51ms
+[00:58:13.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:13.374] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:58:13.374] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/models","route":"/models"}
+[00:58:13.374] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763824190685}
+[00:58:16.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:16.662] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:58:16.662] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/models","route":"/models"}
+[00:58:16.662] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763824193919}
+[00:58:16.662] Browser WARN    Image with src "https://images.unsplash.com/photo-1619384846683-8dede3452564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:58:33.356] Server  LOG      ✓ Compiled in 184ms
+[00:58:43.698] Server  LOG      ✓ Compiled in 67ms
+[00:58:49.244] Server  LOG      ✓ Compiled in 97ms
+[00:58:55.278] Server  LOG      ✓ Compiled in 61ms
+[00:59:22.562] Server  LOG      ✓ Compiled in 85ms
+[00:59:43.395] Server  LOG      ✓ Compiled in 64ms
+[01:00:13.882] Server  LOG      ✓ Compiled in 255ms
+[01:02:10.099] Server  LOG      ✓ Compiled in 93ms
+[01:04:33.389] Server  LOG      ✓ Compiled in 96ms
+[01:04:46.292] Server  LOG      ✓ Compiled in 114ms
+[01:04:56.876] Server  LOG      ✓ Compiled in 107ms
+[01:05:35.293] Server  LOG      ✓ Compiled in 137ms
+[01:06:05.403] Server  LOG      ✓ Compiled in 42ms
+[01:06:14.402] Server  LOG      ✓ Compiled in 115ms
+[01:07:09.795] Server  LOG      ✓ Compiled in 75ms
+[01:07:21.443] Server  LOG      ✓ Compiled in 63ms
+[01:07:25.106] Server  LOG      ✓ Compiled in 78ms
+[01:07:53.750] Server  LOG      ✓ Compiled in 44ms
+[01:08:24.991] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763824802275}
+[01:08:38.264] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/gallery color: rgb(120, 120, 120) color: inherit {"dp":"/gallery","o":"http://localhost:3000/gallery","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763824815567}
+[01:08:43.737] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763824821004}
+[01:08:45.512] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763824822814}
+[01:08:47.363] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:08:47.487] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models/2 color: rgb(120, 120, 120) color: inherit {"dp":"/models/[id]","o":"http://localhost:3000/models/2","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763824824798}
+[01:09:37.221] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:09:40.846] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:09:41.032] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:09:41.288] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:41.441] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:02.868] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:02.868] Server  LOG     undefined
+[01:10:02.960] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:03.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:03.182] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:28.385] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:28.386] Server  LOG     undefined
+[01:10:28.398] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:28.415] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:10:28.635] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:28.678] Server  LOG      ✓ Compiled in 4ms
+[01:10:28.847] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:28.847] Browser LOG     undefined
+[01:10:28.847] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:28.847] Browser LOG     undefined
+[01:10:28.847] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:28.847] Browser LOG     undefined
+[01:10:28.847] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:28.847] Browser LOG     undefined
+[01:10:28.847] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:44.068] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:44.068] Server  LOG     undefined
+[01:10:44.132] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:44.373] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:44.551] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:55.868] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:10:55.868] Server  LOG     undefined
+[01:10:55.931] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:10:56.199] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:56.391] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:11:12.317] Server  WARN    Error: Route "/models/[id]" used `...params` or similar expression. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:11:12.317] Server  LOG     {}
+[01:11:12.322] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:11:12.381] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:11:12.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:12.808] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:11:29.944] Server  WARN    Error: Route "/models/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:11:29.945] Server  LOG     undefined
+[01:11:30.007] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:11:30.279] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:30.465] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:12:19.456] Browser ERROR   ./app/models/[id]/page.tsx:5:20
+Ecmascript file had an error
+  3 | import { Footer } from "@/components/footer"
+  4 | import { ModelProfile } from "@/components/model-profile"
+> 5 | import { notFound, useParams } from "next/navigation"
+    |                    ^^^^^^^^^
+  6 |
+  7 | // Sample model data - in a real app, this would come from a database
+  8 | const modelsData: Record<string, any> = {
+
+You're importing a component that needs `useParams`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:12:34.579] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:12:34.823] Server  LOG     Model ID: "2"
+[01:12:35.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:35.513] Browser LOG     Model ID: 2
+[01:12:35.513] Browser LOG     Model ID: 2
+[01:12:35.513] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:12:35.513] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/models/2","route":"/models/[id]"}
+[01:12:35.513] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models/2 color: rgb(120, 120, 120) color: inherit {"dp":"/models/[id]","o":"http://localhost:3000/models/2","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825052824}
+[01:14:34.255] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:34.255] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:34.255] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:34.255] Browser LOG     Model ID: 2
+[01:14:34.255] Browser LOG     Model ID: 2
+[01:14:39.946] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:39.946] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:39.946] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:42.805] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:42.805] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:42.805] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:43.811] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:43.811] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:43.811] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:44.939] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:44.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:44.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:49.938] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:49.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:49.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:54.934] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:54.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:54.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:59.826] Server  LOG      ✓ Compiled in 51ms
+[01:14:59.933] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:14:59.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:14:59.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:04.939] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:04.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:04.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:09.938] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:09.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:09.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:14.932] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:14.932] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:14.932] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:19.938] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:19.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:19.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:22.550] Server  LOG      ✓ Compiled in 82ms
+[01:15:24.889] Server  LOG      ✓ Compiled in 68ms
+[01:15:24.935] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:24.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:24.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:27.423] Server  LOG      ✓ Compiled in 80ms
+[01:15:29.932] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:29.932] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:29.932] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:29.985] Server  LOG      ✓ Compiled in 76ms
+[01:15:33.281] Server  LOG      ✓ Compiled in 34ms
+[01:15:34.939] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:34.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:34.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:36.313] Server  LOG      ✓ Compiled in 92ms
+[01:15:39.941] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:39.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:39.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:44.933] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:44.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:44.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:49.936] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:49.936] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:49.936] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:54.213] Server  LOG      ✓ Compiled in 52ms
+[01:15:54.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:54.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:54.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:59.933] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:15:59.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:15:59.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:04.935] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:04.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:04.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:09.938] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:09.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:09.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:12.905] Server  LOG      ✓ Compiled in 41ms
+[01:16:14.942] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:14.942] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:14.942] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:19.935] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:19.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:19.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:24.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:24.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:24.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:29.939] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:29.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:29.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:34.935] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:34.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:34.935] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:39.939] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:39.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:39.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:44.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:44.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:44.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:47.138] Server  LOG      ✓ Compiled in 115ms
+[01:16:49.942] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:49.942] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:49.942] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:54.939] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:54.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:54.939] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:56.186] Server  LOG      ✓ Compiled in 117ms
+[01:16:59.946] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:16:59.946] Browser ERROR   Image is missing required "src" property: <img>
+[01:16:59.946] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:04.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:04.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:04.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:09.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:09.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:09.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:12.368] Server  LOG      ✓ Compiled in 61ms
+[01:17:14.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:14.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:14.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:19.934] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:19.934] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:19.934] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:24.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:24.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:24.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:29.933] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:29.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:29.933] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:34.215] Server  LOG      ✓ Compiled in 52ms
+[01:17:34.934] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:34.934] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:34.934] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:39.611] Server  LOG      ✓ Compiled in 42ms
+[01:17:39.944] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:39.944] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:39.944] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:44.936] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:44.936] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:44.936] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:49.938] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:49.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:49.938] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:51.285] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:51.285] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:51.285] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:54.945] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:54.945] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:54.945] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:59.946] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:17:59.946] Browser ERROR   Image is missing required "src" property: <img>
+[01:17:59.946] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:04.941] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:04.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:04.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:09.941] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:09.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:09.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:14.940] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:14.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:14.940] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:19.941] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:19.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:19.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:24.947] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:24.947] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:24.947] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:30.372] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:30.372] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:30.372] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:34.941] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:34.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:34.941] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:39.942] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:18:39.942] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:39.942] Browser ERROR   Image is missing required "src" property: <img>
+[01:18:43.053] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825420342}
+[01:19:21.422] Server  LOG      ✓ Compiled in 179ms
+[01:19:26.279] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:26.484] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:19:26.484] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/models","route":"/models"}
+[01:19:26.484] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825463756}
+[01:19:26.484] Browser WARN    Image with src "https://images.unsplash.com/photo-1619384846683-8dede3452564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:28.226] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825465535}
+[01:19:38.073] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:38.225] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:19:38.225] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:19:38.225] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825475536}
+[01:19:39.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:39.186] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:19:39.186] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:19:39.186] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825476497}
+[01:19:39.728] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:39.875] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:19:39.875] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:19:39.875] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825477186}
+[01:19:43.095] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:43.228] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:19:43.229] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:19:43.229] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825480539}
+[01:20:07.352] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825504660}
+[01:20:13.825] Browser LOG     Model ID: 1
+[01:20:13.825] Browser LOG     Model ID: 1
+[01:20:13.825] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:20:13.825] Browser ERROR   Image is missing required "src" property: <img>
+[01:20:13.825] Browser ERROR   Image is missing required "src" property: <img>
+[01:20:13.825] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models/1 color: rgb(120, 120, 120) color: inherit {"dp":"/models/[id]","o":"http://localhost:3000/models/1","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825511095}
+[01:20:18.759] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/models color: rgb(120, 120, 120) color: inherit {"dp":"/models","o":"http://localhost:3000/models","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825516058}
+[01:20:19.990] Browser LOG     Model ID: 7
+[01:20:19.990] Browser LOG     Model ID: 7
+[01:20:19.990] Browser LOG     Model ID: 7
+[01:20:19.990] Browser LOG     Model ID: 7
+[01:20:19.990] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'mainImage')
+[01:20:29.234] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:29.377] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:20:29.377] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:20:29.377] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763825526688}
+[01:42:47.208] Server  LOG      ✓ Compiled in 57ms
+[01:42:47.580] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading '0')
+[01:43:56.841] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:43:56.841] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/featured-models.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:43:56.841] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:43:57.078] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:43:57.251] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:43:57.251] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:43:57.251] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763826934562}
+[01:44:07.488] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:44:07.489] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:44:07.489] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {years, events, brandsWorked}). If you meant to render a collection of children, use an array instead.
+[01:46:40.435] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:46:40.459] Server  LOG      ✓ Compiled in 108ms
+[01:46:40.837] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:46:40.980] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:46:40.980] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:46:40.980] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763827098291}
+[01:47:09.004] Server  LOG      ✓ Compiled in 60ms
+[01:47:40.369] Server  LOG      ✓ Compiled in 106ms
+[01:48:05.939] Server  LOG      ✓ Compiled in 48ms
+[02:17:34.505] Server  LOG      ✓ Compiled in 114ms
+[02:19:45.548] Server  LOG      ✓ Compiled in 148ms
+[02:20:32.069] Server  LOG      ✓ Compiled in 43ms
+[02:20:37.848] Server  LOG      ✓ Compiled in 57ms
+[02:21:00.396] Server  LOG      ✓ Compiled in 67ms
+[02:21:21.774] Server  LOG      ✓ Compiled in 79ms
+[02:23:22.034] Server  LOG      ✓ Compiled in 115ms
+[02:23:42.688] Server  LOG      ✓ Compiled in 103ms
+[02:23:53.005] Server  LOG      ✓ Compiled in 161ms
+[02:24:18.246] Server  LOG      ✓ Compiled in 82ms
+[02:28:25.132] Server  LOG      ✓ Compiled in 59ms
+[02:28:50.983] Server  ERROR    ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1520975912779-1f1a378b3c6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" 404
+[02:29:30.457] Server  LOG      ✓ Compiled in 83ms
+[02:29:48.551] Server  LOG      ✓ Compiled in 44ms
+[02:30:59.360] Server  LOG      ✓ Compiled in 64ms
+[02:33:09.354] Server  LOG      ✓ Compiled in 53ms
+[02:33:46.959] Server  ERROR    ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1520975912779-1f1a378b3c6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" 404
+[02:33:55.415] Server  LOG      ✓ Compiled in 46ms
+[02:34:03.699] Server  LOG      ✓ Compiled in 36ms
+[02:34:36.775] Server  LOG      ✓ Compiled in 50ms
+[02:36:28.380] Server  ERROR    ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1520975912779-1f1a378b3c6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwzfHxmYXNoaW9uJTIwbW9kZWwlMjBlbGVnYW50fGVufDF8fHx8MTc2MTk1NzM5NXww&ixlib=rb-4.1.0&q=80&w=1080" 404
